@@ -1,6 +1,6 @@
-import Header from './header';
-import Footer from './footer'
-import Tours from './tours'
+import Header from '../header/Header';
+import Footer from '../footer/Footer'
+import Tours from '../tours/Tours'
 
 function Home() {
     return (

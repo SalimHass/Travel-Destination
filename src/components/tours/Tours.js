@@ -1,5 +1,4 @@
-import './Tours.css';
-import travelData from "./data/db.json"
+import travelData from "../../data/db.json"
 
 function Tours() {
     return (
